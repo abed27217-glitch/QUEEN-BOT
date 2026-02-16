@@ -1,5 +1,7 @@
 # QueenBot main script
+
 from commands import start_command
+
 def start_bot():
     print(start_command())
 
