@@ -1,4 +1,2 @@
-# QueenBot configuration file
-
-TOKEN = ""
-OWNER_ID = ""
+TOKEN = "8185118345:"AAFcPdJaCkwOnN0a12lnRYwQ64j-pg64rKM"
+OWNER_ID = 5745729286
